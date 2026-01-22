@@ -1,4 +1,5 @@
 # 🔺 The Beale Ciphers Decoded 🔺
+
 ## A Comprehensive Cryptanalytic Investigation Revealing Hidden Masonic Knowledge
 
 <div align="center">
@@ -59,6 +60,7 @@
 </div>
 
 After conducting the most comprehensive cryptanalytic investigation in history:
+
 - **41 historical documents tested** (1.5+ million words)
 - **GPU-accelerated parallel processing**
 - **Advanced statistical analysis**
@@ -187,12 +189,14 @@ According to the 1885 pamphlet:
 We conducted **five levels of analysis**:
 
 #### 1. **Statistical Cryptanalysis**
+
 - Benford's Law testing
 - Digit frequency distribution
 - Kolmogorov-Smirnov tests
 - Pattern detection algorithms
 
 #### 2. **Computational Brute Force**
+
 ```
 📊 Documents Tested: 41
 📝 Total Words: 1,500,000+
@@ -201,18 +205,21 @@ We conducted **five levels of analysis**:
 ```
 
 #### 3. **Historical Research**
+
 - Thomas Beale background investigation
 - James B. Ward Masonic affiliation discovery
 - 1820s Virginia historical context
 - Masonic text analysis
 
 #### 4. **Symbolic Decoding**
+
 - Masonic number analysis
 - Numerological reduction
 - Anagram extraction
 - Geometric pattern mapping
 
 #### 5. **Academic Verification**
+
 - 2024 statistical fraud research
 - Expert scholarly analysis
 - Historical timeline verification
@@ -223,6 +230,7 @@ We conducted **five levels of analysis**:
 <summary><b>Click to see all 41 documents (100% failure rate)</b></summary>
 
 **Literature Classics:**
+
 - Pride & Prejudice, Alice in Wonderland, Frankenstein, Dracula
 - Moby Dick, Great Expectations, Jane Eyre, Wuthering Heights
 - Emma, Tale of Two Cities, Sherlock Holmes, Oliver Twist
@@ -232,6 +240,7 @@ We conducted **five levels of analysis**:
 - Pilgrim's Progress, Robinson Crusoe, Gulliver's Travels, Treasure Island
 
 **Political/Founding Documents:**
+
 - Federalist Papers (192,000 words)
 - U.S. Constitution (complete with amendments)
 - Common Sense (Thomas Paine)
@@ -241,15 +250,18 @@ We conducted **five levels of analysis**:
 - Jefferson's Writings
 
 **Philosophy/Economics:**
+
 - Wealth of Nations (Adam Smith - 380,000 words)
 - Republic (Plato)
 - The Prince (Machiavelli)
 - Leviathan (Hobbes)
 
 **Religious:**
+
 - King James Bible (complete - 614,000 words)
 
 **Masonic Texts:**
+
 - Webb's Freemason's Monitor (1808) - 74,773 words
 - Ahiman Rezon (S. Cole edition) - 169,460 words
 
@@ -338,6 +350,7 @@ When coordinates from four-letter anagrams are plotted, they form:
 ```
 
 **Also embedded:**
+
 - ✡️ Shield of David
 - ⭐ Order of the Eastern Star symbol
 
@@ -350,6 +363,7 @@ When coordinates from four-letter anagrams are plotted, they form:
 Paper: ["beale cipher 1 and cipher 3: numbers with no messages"](https://eprint.iacr.org/2024/695.pdf) (2024)
 
 **Key Finding:**
+
 - Cipher 2 (solved) differs from uniform distribution **in ALL number bases**
 - Ciphers 1 & 3 differ **only in base 10**
 - This pattern is **statistically impossible** for genuine book ciphers
@@ -418,11 +432,13 @@ But recent research shows **different patterns emerge in different bases** - pro
 ### The Allegorical Message
 
 **Material Interpretation (Literal - FALSE):**
+
 - 🪙 Buried gold, silver, and jewels
 - 📍 GPS coordinates in Virginia
 - 👥 List of treasure owners
 
 **Masonic Interpretation (Symbolic - TRUE):**
+
 - 💎 **Gold** = Enlightenment and wisdom
 - 🏛️ **Silver** = Fraternal knowledge
 - 💍 **Jewels** = Virtues and moral teachings
@@ -433,12 +449,14 @@ But recent research shows **different patterns emerge in different bases** - pro
 ### The Lesson for 140 Years
 
 **For those seeking only gold:**
+
 - 140 years of fruitless searching
 - Modern computers found nothing
 - The treasure "location" remains hidden
 - **Because there is no physical treasure**
 
 **For those seeking wisdom:**
+
 - The journey IS the treasure
 - Each cipher teaches a lesson
 - Material wealth vs. spiritual knowledge
@@ -470,33 +488,43 @@ pip install -r requirements.txt
 ### Running the Analysis
 
 #### 1. Statistical Analysis
+
 ```bash
 python beale_cryptanalysis.py
 ```
+
 Performs comprehensive statistical analysis including Benford's Law, frequency distribution, and pattern detection.
 
 #### 2. GPU-Accelerated Brute Force
+
 ```bash
 python beale_gpu_attack.py
 ```
+
 Tests 39 historical documents in parallel using multi-threaded processing.
 
 #### 3. Masonic Symbolism Analysis
+
 ```bash
 python beale_hidden_knowledge.py
 ```
+
 Decodes Masonic sacred numbers, numerology, and symbolic patterns.
 
 #### 4. Historical Document Testing
+
 ```bash
 python beale_final_assault.py
 ```
+
 Tests individual historical documents with detailed scoring.
 
 #### 5. Masonic Text Testing
+
 ```bash
 python beale_masonic_texts.py
 ```
+
 Specifically tests Masonic documents (Webb's Monitor, Ahiman Rezon).
 
 ### Repository Structure
@@ -516,6 +544,11 @@ beale-cipher-analysis/
 ├── beale_final_assault.py            # Historical document tester
 ├── beale_masonic_texts.py            # Masonic text analyzer
 ├── beale_brute_force.py              # Comprehensive brute force
+├── beale_cipher_forge.py             # CIPHER FORGE (Create fake ciphers)
+├── beale_masonic_visualizer.py       # VISUALIZER (SVG chart generator)
+├── beale_genetic_cracker.py          # GENETIC ALGORITHM (Serious solver)
+├── ngram_score.py                    # N-gram scoring helper
+├── english_quadgrams.txt             # English statistics data
 │
 ├── requirements.txt                   # Python dependencies
 └── LICENSE                            # MIT License
@@ -567,6 +600,7 @@ beale-cipher-analysis/
 ### Understanding Freemasonry
 
 **Core Principles:**
+
 - 🔺 **Three Degrees:** Entered Apprentice, Fellow Craft, Master Mason
 - 🏛️ **Symbolism:** Teachings conveyed through allegory and symbols
 - 💡 **Enlightenment:** Progressive revelation of knowledge
@@ -590,6 +624,7 @@ beale-cipher-analysis/
 ### The Secret Vault Allegory
 
 In Masonic teaching, the "secret vault" represents:
+
 - Hidden knowledge within the Lodge
 - Inner chamber of the Temple
 - Heart of the initiated Mason
