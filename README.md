@@ -527,6 +527,40 @@ python beale_masonic_texts.py
 
 Specifically tests Masonic documents (Webb's Monitor, Ahiman Rezon).
 
+### Creative & Advanced Tools (New!)
+
+#### 6. Cipher Forge (Create Your Own Hoax)
+
+```bash
+python beale_cipher_forge.py --message "SECRET" --forge
+```
+
+Demonstrates how to create "fake" ciphers that mimic the specific statistical anomalies of the Beale papers.
+
+#### 7. Masonic Visualizer
+
+```bash
+python beale_masonic_visualizer.py
+```
+
+Generates distinct charts (`beale_visuals.html`) proving the "non-random" bias in the cipher numbers.
+
+#### 8. Genetic Algorithm Attack
+
+```bash
+python beale_genetic_cracker.py
+```
+
+Attempts to solve the ciphers as homophonic substitutions *without* a book key. (Spoiler: It confirms they are likely not standard ciphers).
+
+#### 5. Masonic Text Testing
+
+```bash
+python beale_masonic_texts.py
+```
+
+Specifically tests Masonic documents (Webb's Monitor, Ahiman Rezon).
+
 ### Repository Structure
 
 ```
